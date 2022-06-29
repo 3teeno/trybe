@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "631589258647",
+    "project_id": "trybelocked",
+    "storage_bucket": "trybelocked.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:631589258647:android:d974773c7445d91c7130d2",
+        "android_client_info": {
+          "package_name": "com.app.trybelocker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "631589258647-g6fe0ngm2cknhj2q6o99ljvja0a7gu32.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.trybelocker",
+            "certificate_hash": "dbe4779eaf01c47ee7e2376320f21236c42681bf"
+          }
+        },
+        {
+          "client_id": "631589258647-p76ln46qbagd5j4alf4jvottkk4i7rd3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.trybelocker",
+            "certificate_hash": "2c714d894ad9a4fa1dfdb00a0800af31f62a55c5"
+          }
+        },
+        {
+          "client_id": "631589258647-s5grsmhfml6tnlp48skhcack4s5or38r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.trybelocker",
+            "certificate_hash": "ad7b959d454208fac1b923efd6198d63a68ec4c8"
+          }
+        },
+        {
+          "client_id": "631589258647-agn9k4fgf93bdgq8ub5uur9g0cbg2a05.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB926lGuvI4T1YnFeEcUVvFHXSfSbphe6M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "631589258647-agn9k4fgf93bdgq8ub5uur9g0cbg2a05.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
